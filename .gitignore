@@ -144,3 +144,16 @@ CMakeSettings.json
 /.vscode/
 /.vs/
 /out/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+DartConfiguration.tcl
+FindFLAC.cmake
+FindOgg.cmake
+FindOpus.cmake
+FindVorbis.cmake
+Findmp3lame.cmake
+Findmpg123.cmake
+SndFileConfig.cmake
+SndFileConfig2.cmake
+SndFileConfigVersion.cmake
+SndFileTargets.cmake
